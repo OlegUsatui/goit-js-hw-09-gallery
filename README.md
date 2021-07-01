@@ -1,4 +1,4 @@
-# Parcel boilerplate
+# oleg boilerplate
 
 ## Скрытые файлы
 
